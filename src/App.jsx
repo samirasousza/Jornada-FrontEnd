@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div>
-        <div>
+        <div className="card">
           <h2>Machado (gabriel)</h2>
           <img src="https://rickandmortyapi.com/api/character/avatar1/1.jpeg" />
         </div>
